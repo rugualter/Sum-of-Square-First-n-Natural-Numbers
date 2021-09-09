@@ -1,5 +1,5 @@
 # Sum-of-Square-First-n-Natural-Numbers
-C - CLI program to calculate the Sum of the square of the first n natural numbers using multiple process
+C - CLI program to calculate the Sum of the square of the first n natural numbers using multiple process  (multitasking)
 
 The program follows a basic structure where there is a main function and two others that are called to main, the process and final function.
 
